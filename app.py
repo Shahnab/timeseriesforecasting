@@ -8,6 +8,7 @@ from prophet.plot import plot_cross_validation_metric
 import base64
 
 #st.image("https://assets-eu-01.kc-usercontent.com/ac1144d1-44c7-0116-3e50-561fc1db4e3c/3fa8fd5d-19a1-4482-b118-ac0d2950cc8d/merkle-dentsu.png", use_column_width="always")
+st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
 st.title('Time Series Forecasting App')
 
 
